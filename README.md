@@ -44,7 +44,7 @@ Tabel utama yang digunakan:
 - `pesanan` → menyimpan data pemesanan.  
 - `pesanan_detail` → detail produk dalam pesanan.  
 
-📌 [ERD InovaMarket](./docs/erd.png) *(tambahkan gambar ERD ke folder `docs` repo GitHub)*  
+📌 [ERD InovaMarket](./docs/InovaMarket_ERD.png) *(tambahkan gambar ERD ke folder `docs` repo GitHub)*  
 
 ---
 

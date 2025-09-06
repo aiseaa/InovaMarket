@@ -68,7 +68,7 @@ Tabel utama yang digunakan:
 
 ## 📊 Status Proyek
 - [x] Buat repository GitHub.  
-- [ ] Desain ERD Database.  
+- [x] Desain ERD Database.  
 - [ ] Buat wireframe (UI/UX).  
 - [ ] Implementasi Front-End.  
 - [ ] Implementasi Back-End.  

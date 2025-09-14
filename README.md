@@ -71,6 +71,6 @@ Tabel utama yang digunakan:
 - [x] Desain ERD Database.  
 - [ ] Buat wireframe (UI/UX).  
 - [ ] Implementasi Front-End.  
-- [ ] Implementasi Back-End.  
+- [x] Implementasi Back-End.  
 - [ ] Integrasi sistem & testing.  
 - [ ] Laporan & presentasi.  
